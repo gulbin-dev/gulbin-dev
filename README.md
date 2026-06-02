@@ -41,12 +41,12 @@
 
 ⚡ Powered by Next.js and animated with love.
 
-[![Joshua's GitHub stats](https://vercel.app)](https://github.com)
-[![Top Langs](https://vercel.app)](https://github.com)
+[![Joshua Glenn Gulbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats)
 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshua-glenn-gulbin/)
+- 📧 [Email](mailto:gulbindev@gmail.com)
 - 🌐 [Portfolio Website](https://portfolio-gulbindev.vercel.app/)
