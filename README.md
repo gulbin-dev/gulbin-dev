@@ -41,9 +41,9 @@
 
 ⚡ Powered by Next.js and animated with love.
 
-[![Joshua Glenn Gulbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats)
-
+[![Joshua's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats-fast)
 ---
 
 ### 📫 Connect With Me
