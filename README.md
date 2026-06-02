@@ -15,9 +15,8 @@
 
 | Core Stack | Additional Tools & Libraries |
 | :--- | :--- |
-| **Languages:** HTML5, CSS3, JavaScript, TypeScript | **State Management:** Zustand |
-| **Frameworks:** Next.js | **Animation:** Framer Motion |
-| **Styling & Motion:** Tailwind CSS, GSAP | **Architecture:** Redux |
+| **Languages:** HTML5, CSS3, JavaScript/TypeScript | **State Management:** Zustand, Redux-tookit |
+| **Frameworks:** Next.js | **Styling & Motion:** Tailwind CSS, GSAP, Framer Motion |
 
 ---
 
