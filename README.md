@@ -38,7 +38,6 @@
 
 ### 📊 GitHub Stats
 
-⚡ Powered by Next.js and animated with love.
 
 [![Joshua's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gulbin-dev)](https://github.com/gulbin-dev/github-readme-stats)
