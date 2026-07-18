@@ -35,6 +35,7 @@
 - [🔗 Live Demo](https://crunchtime-gulbin-devs-projects.vercel.app/) | [💻 Source Code](https://github.com/gulbin-dev/Crunchtime)
 
 #### 📂 travel-explore
+![Travel Explore](https://d2kkupsaj7vt9n9k.public.blob.vercel-storage.com/travel-explore/poster.png)
 > A travel blog website showcasing my skill on premium scroll-driven animations using GSAP. 
 - **Tech Used:** TanStack Start, TypeScript, Tailwind CSS, GSAP, HTML5, React.js, Redux, CSS3, TanStack Router
 - **Key Feature:** Responsive Layout and optimized scroll-driven animations.
