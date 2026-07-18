@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🖥️ Focused on creating fluid user interfaces and smooth web animations.
-- 🛠️ Currently showcasing **2 finished projects** that demonstrate my core engineering skills.
+- 🛠️ Currently showcasing **3 finished projects** that demonstrate my core engineering skills.
 - 🎨 Passionate about merging clean code with visually stunning motion design.
 
 ---
@@ -33,6 +33,12 @@
 - **Tech Used:** Next.js, TypeScript, Tailwind CSS, GSAP, HTML5, React.js, Redux, CSS3
 - **Key Feature:** Integrated external API data streams with sleek dynamic routing and layouts.
 - [🔗 Live Demo](https://crunchtime-gulbin-devs-projects.vercel.app/) | [💻 Source Code](https://github.com/gulbin-dev/Crunchtime)
+
+#### 📂 travel-explore
+> A travel blog website showcasing my skill on premium scroll-driven animations using GSAP. 
+- **Tech Used:** TanStack Start, TypeScript, Tailwind CSS, GSAP, HTML5, React.js, Redux, CSS3, TanStack Router
+- **Key Feature:** Responsive Layout and optimized scroll-driven animations.
+- [🔗 Live Demo](https://gulbindev-demo-trave-explore.netlify.app/) | [💻 Source Code](https://github.com/gulbin-dev/travel-explore)
 
 ---
 
