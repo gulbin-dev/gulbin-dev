@@ -22,19 +22,20 @@
 
 ### 📁 Featured Projects
 
-#### 📂 Joshua Glenn Gulbin | Frontend React Web Developer
+## 📂 Joshua Glenn Gulbin | Frontend React Web Developer
+![Portfolio Website](https://d2kkupsaj7vt9n9k.public.blob.vercel-storage.com/gulbindev-portfolio/poster.png)
 > My personal portfolio website with GSAP animation and Next.js.
 - **Tech Used:** Next.js, TypeScript, Tailwind CSS, GSAP, HTML5, React.js, Redux, CSS3
 - **Key Feature:** Implemented advanced scroll-driven animations and smooth interface transitions.
 - [🔗 Live Demo](https://portfolio-gulbindev.vercel.app/) | [💻 Source Code](https://github.com/gulbin-dev/gulbindev-portfolio)
 
-#### 📂 CrunchTime
+## 📂 CrunchTime
 > A movie list website showcasing my skill on rendering data from third party API using TMDB API.
 - **Tech Used:** Next.js, TypeScript, Tailwind CSS, GSAP, HTML5, React.js, Redux, CSS3
 - **Key Feature:** Integrated external API data streams with sleek dynamic routing and layouts.
 - [🔗 Live Demo](https://crunchtime-gulbin-devs-projects.vercel.app/) | [💻 Source Code](https://github.com/gulbin-dev/Crunchtime)
 
-#### 📂 travel-explore
+## 📂 travel-explore
 ![Travel Explore](https://d2kkupsaj7vt9n9k.public.blob.vercel-storage.com/travel-explore/poster.png)
 > A travel blog website showcasing my skill on premium scroll-driven animations using GSAP. 
 - **Tech Used:** TanStack Start, TypeScript, Tailwind CSS, GSAP, HTML5, React.js, Redux, CSS3, TanStack Router
