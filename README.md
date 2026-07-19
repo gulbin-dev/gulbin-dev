@@ -1,5 +1,5 @@
 # Hi! I'm Joshua Glenn R. Gulbin 👋
-### A passionate front-end web developer dedicated to building immersive, pixel-perfect, and high-performance web experiences.
+### Front-end engineer that can deliver high-performance web experiences and dedicated to building immersive, and pixel-perfect web experience.
 
 ---
 
