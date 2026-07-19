@@ -5,8 +5,9 @@
 
 ### 🚀 About Me
 - 🖥️ Focused on creating fluid user interfaces and smooth web animations.
-- 🛠️ Currently showcasing **3 finished projects** that demonstrate my core engineering skills.
-- 🎨 Passionate about merging clean code with visually stunning motion design.
+- 🛠️ Currently showcasing **3 finished projects** that demonstrate my core web development skills.
+- 🎨 Aiming to continuously improve my UI design taste.
+- 🚧 Writing clean code for better maintainability 
 
 ---
 
